@@ -25,7 +25,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,flask,opencv,numpy,pandas,sklearn,plotly,matplotlib,git,github,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,flask,opencv,numpy,pandas,sklearn,plotly,matplotlib,git,github,&theme=dark"/>
 </p>
 
 ---
