@@ -57,7 +57,8 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <!-- Replace `output` branch if you fork an snk workflow -->
-  <img src="https://raw.githubusercontent.com/iruzie/iruzie/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/iruzie/iruzie/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
